@@ -1,0 +1,78 @@
+body{
+	background: #777777be;
+	font-family: sans-serif;
+}
+
+
+.kalkulator{
+	width: 430px;
+	background: #dfdfdf;
+	margin: 100px auto;
+	padding: 10px 30px 30px 30px;
+	border-radius: 15px;
+	border-bottom: #D1D1D1 5px;
+	box-shadow: 0px 10px 20px 0px #353434;
+}
+
+.judul{
+	text-align: center;
+	color: #3b3b3b;
+	font-weight: bold;
+}
+
+.bilangan{
+	text-align: center;
+	width: 150px;
+	margin: 5px;
+	border: none;
+	font-size: 10pt;
+	border-radius: 7px;
+	padding: 10px 10px;	
+	font-weight: bold;
+}
+
+.penjumlahan{
+	font-size: 16pt;
+	border: none;
+	width: 50px;
+	margin: 5px;
+	border-radius: 7px;
+	padding: 5px;
+}
+
+.tombol{
+	width: 417px;
+	background: #f74141d5;
+	color: rgb(255, 255, 255);
+	font-size: 10pt;
+	font-weight: bold;
+	margin: 5px;
+	border: none;
+	border-radius: 7px;
+	padding: 10px;
+	border-bottom:4px solid #c93232;
+	cursor: pointer;
+}
+
+.tombol:hover{
+	background: #ff0101d5;
+}
+
+.hasil{
+	width: 397px;
+	margin: 5px;
+	font-size: 15pt;
+	font-weight: bold;
+	color: #3b3b3b;
+	border: none;
+	border-radius: 7px;
+	padding: 10px;
+	text-align: center;
+}
+
+p {
+	text-align: right;
+	font-size: 10px;
+	margin: 5px 10px -20px 0px;
+	color: #9b9b9b;
+}
